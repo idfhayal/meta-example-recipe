@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello World!\n");
+    printf("My first package example!\n");
 
     return 0;
 }
